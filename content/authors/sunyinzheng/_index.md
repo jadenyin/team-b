@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 范语
+title: 孙印政
 
 # Username (this should match the folder name)
 authors:
-- fanyu
+- sunyinzheng
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2020硕
+role: 2018本科生
 
 # Organizations/Affiliations
 organizations:
@@ -18,20 +18,18 @@ organizations:
   url: "http://www.ecnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: hello world!
+bio: Stay hungry stay foolish
 
 interests:
-- Reading
-- History
+- Swimming
+- Computer vision and ML
 
 education:
   courses:
-  - course: MEng in Computer Science
+  - course: MEng in Data Science
     institution: East China Normal University
-    year: 2023
-  - course: BEng in Computer science and technology
-    institution: Wuhan University of Technology
-    year: 2020
+    year: 2022
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,13 +38,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:1178125502@qq.com"
+  link: "mailto:10185501404@stu.ecnu.edu.cn"  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/leerfanyu
+  link: https://github.com/YinZheng-Sun
 - icon: zhihu
   icon_pack: fab
-  link: https://www.zhihu.com/people/le-er-3-12
+  link: https://www.zhihu.com/people/youself-2
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -54,7 +52,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "1178125502@qq.com"
+email: "10185501404@ecnu.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -62,4 +60,4 @@ user_groups:
 - Master
 ---
 
-## A happy child in X-Lab.
+佛系码代码

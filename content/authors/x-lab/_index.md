@@ -1,23 +1,23 @@
 ---
 # Display name
-title: X-Lab
+title: Y看板
 
 # Username (this should match the folder name)
 authors:
-- x-lab
+- team-b
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 技术传播文明，践行同步世界
+role: 你的规划管理助手
 
 # Organizations/Affiliations
 organizations:
-- name: Tongji University
-  url: "http://www.tongji.edu.cn/"
 - name: East China Normal University
   url: "http://www.ecnu.edu.cn/"
+- name: ECNU DaSE
+  url: "http://dase.ecnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 拥抱开源，热爱生活
@@ -71,19 +71,17 @@ email: "wwang@dase.ecnu.edu.cn"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - admin
+
 ---
 
-**X-Lab** is a combination of two leading and pioneering laboratories from **computer science** and **data science and engineering** respectively in Tongji University (同济大学) and East China Normal University (华东师范大学).The lab is supported by a number of core members, including doctorial supervisors, Ph.D students, master students and undergraduate students.
+看板系统适用于个人的日程规划、计划的安排和分类，它同样适用于团队，用户可以合理分配团队任务、实现流程可视化，与小组队员分享工作的完成进度，从而实现多人在线协作的目的。
 
-**X-Lab** is an intercross multi-discipline, cutting-edge research lab which focuses on the following research domains: **Cloud Computing, Big Data, Data Intelligence,** and **Education Science & Technology**.
+Y看板是一个在线的看板平台系统，该系统目标人群是在校学生、上班族等缺乏时间管理能力的群体。该系统旨在帮助该类人群平衡自身的时间分配，提升规划能力。
 
-With regard to the lab culture, we keep all along holding the several opinions below:
-- Advocating lofty academic feelings and technical feelings!
-- Encourage highly respected, open and innovative geek culture!
-- Rejecting the “sophisticated egoism”!
-- Adhering to the “open”, “equal”, ”positive”, ”mutual respect”, “mutual support” culture!
-- Stay hungry, stay foolish
+该项目由华东师范大学2020设计思维课程的teamb组学生创建，作为他们课程成果展现的期末项目。
 
-Your attention to our lab would be highly appreciated. It’s not only our pursuit but also our faith endeavoring to build a harmonious team with a strong sense of belonging: mentors and students like one family!
+该看板系统的主要功能包括：对个人日常任务的规划安排；团队协作的进度共享；对日程安排的监督管理机制和奖惩机制。
 
-<font color='orangered'>* We are always looking for highly-motivated students to work with us on the exciting area of computer science. If you are interested, please contact us by email.</font>
+该平台目前还在实验阶段，欢迎广大使用者积极向我们提出意见和建议。最后，欢迎各位使用Y看板系统。
+
+<font color='orangered'>* 如果您对我们的平台有意见或建议，欢迎提出。</font>
