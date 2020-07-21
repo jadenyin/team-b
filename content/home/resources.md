@@ -24,18 +24,18 @@ date_format = "Jan 2006"
   title = "开源软件"
   url = ""
   certificate_url = ""
-  date_start = "2020-10-01"
+  date_start = "2020-07-01"
   date_end = ""
-  description = "OpenEdx、Canvas、Jupyter Lab、KNIME、Scratch、BlockPy"
+  description = "Leangoo、Jira、Axosoft OnTime Scrum、LeanKit、Telerik TeamPulse、Rally Platform for Agile Lifecycle Management"
 
 [[item]]
   organization = ""
   organization_url = ""
-  title = "顶级会议列表"
+  title = "交流方式"
   url = ""
   certificate_url = ""
-  date_start = "2020-10-01"
+  date_start = "2020-07-01"
   date_end = ""
-  description = ""
+  description = "腾讯会议，slack"
 
 +++
