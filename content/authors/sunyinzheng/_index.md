@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:leofang666@163.com"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:10185501404@stu.ecnu.edu.cn"  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/YinZheng-Sun
