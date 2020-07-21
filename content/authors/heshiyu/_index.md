@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Y看板
+title: 何诗雨
 
 # Username (this should match the folder name)
 authors:
-- team-b
+- yinyujie
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: 你的规划管理助手
+role: 2018
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
   url: "http://dase.ecnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 拥抱开源，热爱生活
+bio: 技术传播文明，践行同步世界
 
 interests[]:
 - Advocating lofty academic feelings and technical feelings!
@@ -51,10 +51,10 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-# link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-# link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/X-lab2017
@@ -65,23 +65,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "wwang@dase.ecnu.edu.cn"
+email: "51185100016@stu.ecnu.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- admin
-
+- Faculty
 ---
-
-看板系统适用于个人的日程规划、计划的安排和分类，它同样适用于团队，用户可以合理分配团队任务、实现流程可视化，与小组队员分享工作的完成进度，从而实现多人在线协作的目的。
-
-Y看板是一个在线的看板平台系统，该系统目标人群是在校学生、上班族等缺乏时间管理能力的群体。该系统旨在帮助该类人群平衡自身的时间分配，提升规划能力。
-
-该项目由华东师范大学2020设计思维课程的teamb组学生创建，作为他们课程成果展现的期末项目。
-
-该看板系统的主要功能包括：对个人日常任务的规划安排；团队协作的进度共享；对日程安排的监督管理机制和奖惩机制。
-
-该平台目前还在实验阶段，欢迎广大使用者积极向我们提出意见和建议。最后，欢迎各位使用Y看板系统。
-
-<font color='orangered'>* 如果您对我们的平台有意见或建议，欢迎提出。</font>
