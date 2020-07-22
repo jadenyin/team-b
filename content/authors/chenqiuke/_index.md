@@ -24,9 +24,9 @@ interests[]:
 - playing cards
 - playing games
 
-education[]:
+education:
   courses:
-	- course: MEng in Data Science
+  - course: MEng in Data Science
     institution: East China Normal University
     year: 2022
 
